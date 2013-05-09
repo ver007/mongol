@@ -11,6 +11,12 @@ It is built using scapy[1] for some of the TCP header modification requirements
 
 [1]  http://www.secdev.org/projects/scapy/
 
+## UPDATE
+
+User @fqrouter has been running with this concept and taken it far past my initial ideas.
+
+Please check out his work at: https://github.com/fqrouter/qiang
+
 ##Usage
 
 python mongol.py -i hostslist.txt -o outputfilename.txt
