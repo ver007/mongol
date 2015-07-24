@@ -1,4 +1,4 @@
-#mongol
+越过gfw
 
 Mongol.py is a tool that was inspired by a research paper[0] that described the physical location and number of routers
 acting for the Great Firewall (GFW) of China 
